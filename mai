@@ -1,0 +1,5 @@
+from tkinter import*
+screen=Tk()
+screen.title("Mihir's Class")
+screen.geometry("500x500")
+screen.mainloop()
